@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="D:\BaiduNetdiskDownload\大数据文档\034_电商分析平台项目Spark\03.代码\01_项目代码\2. 初始代码\commerce_basic\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="D:\BaiduNetdiskDownload\大数据文档\034_电商分析平台项目Spark\03.代码\01_项目代码\2. 初始代码\commerce_basic" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
