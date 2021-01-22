@@ -9,21 +9,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09babcc4-6063-48fd-bef2-a441d50f7545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-ct.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="09babcc4-6063-48fd-bef2-a441d50f7545" name="Default Changelist" comment="修改pom文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ct-analysis/ct-analysis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ct-analysis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ct-analysis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ct-analysis/src/main/java/mapper/AnalysisBeanMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ct-analysis/src/main/java/mapper/AnalysisBeanMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ct-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ct-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ct-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ct-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ct-producer/ct-producer.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -519,8 +506,16 @@
       <workItem from="1604722654492" duration="23606000" />
       <workItem from="1604808889635" duration="17772000" />
       <workItem from="1605889844047" duration="794000" />
-      <workItem from="1611300184635" duration="6603000" />
+      <workItem from="1611300184635" duration="7183000" />
     </task>
+    <task id="LOCAL-00001" summary="修改pom文件">
+      <created>1611310311099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611310311099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -635,6 +630,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改pom文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改pom文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
