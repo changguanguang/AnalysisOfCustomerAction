@@ -13,6 +13,8 @@ import java.io.IOException;
 public class AnalysisBeanMapper extends TableMapper<AnalysisKey, Text> {
 
     @Override
+
+
     protected void map(ImmutableBytesWritable key, Result value, Context context) throws IOException, InterruptedException {
 
         // 解析 parse
